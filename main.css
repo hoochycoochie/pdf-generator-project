@@ -1,0 +1,86 @@
+.orangeBackground{
+    background: #EB6864 ;
+  }
+  .orangeColor{
+      color: #EB6864 ;
+  }
+  .whiteColor{
+    color: white;
+  }
+  .blueColor{
+      color: #0997d8;
+  }
+  .blueBackground{
+      background: #0997d8;
+  }
+.darkblueColor{
+  color: 	#222f3e;
+}
+.darkblueBackground{
+  background: 	#222f3e;
+}
+.whiteBackground{
+background: white;
+}
+.lightGrayColor{
+color: lightgray;
+}
+.lightGrayColorBackground{
+  background: lightgray;
+}
+.violetColor{
+  color: 	#9370DB;
+}
+.violetBackground{
+  background:	#9370DB;
+}
+
+.grayColor{
+  color: 	gray;
+}
+.grayBackground{
+  background:	gray;
+}
+.customblueColor{
+  color: #0abde3;
+}
+
+.customblueBackground{
+  background:#0abde3;
+}
+
+.custommarginfooter{
+  margin-top: 15px;
+}
+.footer{
+  position: fixed;
+  height: 160px;
+  bottom: 0;
+  width: 100%;
+}
+.notdisplayed{
+  display: none;
+}
+.titlePage{
+  text-transform: uppercase;
+}
+.circle {
+  height: 105px;
+  width: 105px;
+  
+  border-radius: 50%;
+  margin-bottom: 20px;
+  display: inline-block;
+  }
+  .circleFooter {
+      height: 70px;
+      width: 70px;
+      background-color:#EB6864;
+      border-radius: 50%;
+      border-color: white;
+      display: inline-block;
+    }
+  .presentation{
+    color: 	#222f3e;
+    font-size: 20px;
+  }
